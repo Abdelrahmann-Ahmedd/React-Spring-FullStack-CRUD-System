@@ -16,7 +16,7 @@ o Real-time communication between frontend and backend.
 
 Technologies Used
 Frontend:
-* React
+* React (Vite)
 * Axios for HTTP requests
 * React Router for navigation
 * Bootstrap for styling
